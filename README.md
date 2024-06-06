@@ -1,7 +1,7 @@
 
 ## Hey 👋, I'm [Xunlian Wu(仵训练)!](https://github.com/RyanWuwu/)
 
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ryanwuwu.github.io/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://Xunlian-Wu.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yimeishan)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/xunlianwu/)
 [![Youtube Badge](https://img.shields.io/youtube/channel/views/UCmJl_VnuzJazUTsXR22euPw?style=social)](https://www.youtube.com/channel/UCmJl_VnuzJazUTsXR22euPw)
