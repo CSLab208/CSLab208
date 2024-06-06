@@ -56,9 +56,8 @@ Joined Github **3** years ago.
     srcset="https://github-readme-stats.vercel.app/api?username=Xunlain-Wu&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=Xunlian-Wu&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Xunlian-Wu&show_icons=true&theme=radical" />
 </picture>
-![Xunlian Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xunlian-Wu&show_icons=true&theme=radical)
 
 </div>
 
