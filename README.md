@@ -47,6 +47,7 @@ Joined Github **3** years ago.
 
 ### Projects and Dev Stuffs:
 ⚡ Github Stats
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="[https://github-readme-stats.vercel.app/api?username=RyanWuwu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true](https://github-readme-stats.vercel.app/api?username=Xunlian-Wu&show_icons=true&theme=radical)" alt="Anurag's github stats" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xunlian-Wu&show_icons=true&theme=radical)
 
 </div>
