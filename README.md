@@ -1,3 +1,4 @@
+
 ## Hey 👋, I'm [Xunlian Wu(仵训练)!](https://github.com/RyanWuwu/)
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ryanwuwu.github.io/)
@@ -48,6 +49,7 @@ Joined Github **3** years ago.
 ⚡ Github Stats
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xunlian-Wu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xunlian-Wu&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </div>
 
