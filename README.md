@@ -10,7 +10,7 @@
 
 I'm a Phd candidate in Computer Science 🎓 from Xidian University, Xi'an, China 🏛. I mainly focus on social network analysis and Data mining. I'm a passionate learner who's always willing to learn new things 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to play baseketball and LOL.
 
-Joined Github **3** years ago.
+Joined Github **6** years ago.
 [![](https://gitwar.herokuapp.com/badge?username=iampavangandhi&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
@@ -19,7 +19,7 @@ Joined Github **3** years ago.
 
 - 🛠 &nbsp; I’m currently working with python, C++, Latex, etc.
 - 🚀 &nbsp; I’m currently learning Influence Maximization and community detection.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/RyanWuwu).
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/Xunlian-Wu).
 - 👾 &nbsp; Fun fact: There are twenty-four hours in a day
 - 📫 &nbsp; How to reach me: xunlianwu2021@gmail.com.🖥️
 
