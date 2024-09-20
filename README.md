@@ -1,5 +1,5 @@
 
-## Hey 👋, I'm [Xunlian Wu(仵训练)!](https://github.com/RyanWuwu/)
+## Hey 👋, I'm [Xunlian Wu!](https://github.com/RyanWuwu/)
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://Xunlian-Wu.github.io/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/yimeishan)
